@@ -1,4 +1,4 @@
-package com.sherlock.learn.spring.rest.controller;
+package com.sherlock.learn.spring.messaging.cosumer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

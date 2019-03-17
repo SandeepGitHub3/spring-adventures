@@ -1,4 +1,4 @@
-package com.sherlock.learn.spring.rest;
+package com.sherlock.learn.spring.messaging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
